@@ -5,7 +5,7 @@ import random
 from collections import Counter
 
 # ========== توکن ربات (اینجا بذار) ==========
-TOKEN =8919993932:AAHZZQ1oLnKlQBQ_f5rlNkUkKKxhFXY5I5c
+TOKEN = "8919993932:AAHZZQ1oLnKlQBQ_f5rlNkUkKKxhFXY5I5c "
 bot = telebot.TeleBot(TOKEN)
 
 user_data = {}
